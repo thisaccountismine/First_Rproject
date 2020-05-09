@@ -1,0 +1,102 @@
+sound,predicted_order,structure,binomials,misc,rule,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,key_resp_2.keys,key_resp_2.rt,rating.response,rating.rt,rating_2.response,rating_2.rt,date,frameRate,expName,session,participant
+,,,,,,,,,,,,,,space,12.584701,,,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\goudintegoudette.wav,R,red,goudinte-goudette     goudette-goudinte,cl,VN,0,0,0,20,,,,,,,2,9.041,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\traplintetraplette.wav,R,conj,ni traplinte ni traplette         ni traplette ni traplinte,cl,VN,0,1,1,26,,,,,,,3,14.83,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\rupottetupotte.wav,L,red,rupotte-tupotte          tupotte-rupotte,diff,IS,0,2,2,1,,,,,,,5,7.676,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fomaigeflomaige.wav,L,conj,ni fomaige ni flomaige        ni flomaige ni fomaige,nan,ICN,0,3,3,46,,,,,,,6,8.777,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\gavaipemavaipe.wav,R,conj,ni gavaipe ni mavaipe          ni mavaipe ni gavaipe,same,IS,0,4,4,7,,,,,,,4,16.036,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\brezouillebezouille.wav,R,red,brezouille-bezouille    bezouille-brezouille,nan,ICN,0,5,5,43,,,,,,,5,8.751,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\davailedavaisse.wav,R,conj,ni davaile ni davaisse          ni davaisse ni davaile,same,FS,0,6,6,15,,,,,,,2,10.822,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\guinotterinotte.wav,R,red,guinotte-rinotte         rinotte-guinotte,diff,IS,0,7,7,3,,,,,,,2,19.702,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\madetgadet.wav,L,red,madet-gadet            gadet-madet,same,IS,0,8,8,4,,,,,,,1,6.522,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tipametipague.wav,R,conj,ni tipame ni tipague            ni tipague ni tipame,same,FS,0,9,9,19,,,,,,,5,11.755,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\taguelague.wav,R,red,taguet-laguet            laguet-taguet,diff,IS,0,10,10,2,,,,,,,5,11.094,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\pamiquelamique.wav,R,conj,ni pamique ni lamique         ni lamique ni pamique,diff,IS,0,11,11,5,,,,,,,5,9.458,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\stolastolan.wav,L,conj,ni stola ni stolan                ni stolan ni stola,op,VN,0,12,12,25,,,,,,,3,13.881,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\rataferatalle.wav,L,red,ratafe-ratalle             ratalle-ratafe,same,FS,0,13,13,14,,,,,,,3,19.882,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\raffotteraffette.wav,R,conj,ni raffotte ni raffette             ni raffette ni raffotte,a,VQ,0,14,14,35,,,,,,,5,10.788,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\plirotpirot.wav,R,conj,ni plirot ni pirot                  ni pirot ni plirot,nan,ICN,0,15,15,47,,,,,,,6,13.31,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\cralontecralotte.wav,R,red,cralonte-cralotte        cralotte-cralonte,cl,VN,0,16,16,24,,,,,,,2,8.283,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\clavrercavrer.wav,R,conj,ni clavrer ni cavrer             ni cavrer ni clavrer,nan,ICN,0,17,17,49,,,,,,,5,9.798,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\salainestalaine.wav,L,red,salaine-stalaine         stalaine-salaine,nan,ICN,0,18,18,42,,,,,,,5,6.884,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tilafretilafe.wav,R,conj,ni tilafre ni tilafe                 ni tilafe ni tilafre,fr,FCN,0,19,19,59,,,,,,,5,6.783,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\trapiletrapale.wav,L,conj,ni trapile ni trapale              ni trapale ni trapile,h,VQ,0,20,20,38,,,,,,,2,9.059,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fuglatefuglite.wav,R,conj,ni fuglate ni fuglite               ni fuglite ni fuglate,h,VQ,0,21,21,36,,,,,,,5,7.721,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tuguettruguet.wav,L,red,tuguet-truguet            truguet-tuguet,nan,ICN,0,22,22,44,,,,,,,1,5.866,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fluponfupon.wav,R,red,flupon-fupon              fupon-flupon,nan,ICN,0,23,23,41,,,,,,,6,7.759,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\bicafebicafre.wav,L,red,bicafe-bicafre             bicafre-bicafe,fr,FCN,0,24,24,54,,,,,,,3,10.552,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\gonaisgonin.wav,L,red,gonais-gonin             gonin-gonais,op,VN,0,25,25,23,,,,,,,5,4.718,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\ridacteridac.wav,R,red,ridacte-ridac              ridac-ridacte,stop,FCN,0,26,26,51,,,,,,,4,6.824,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tiboufetiboufre.wav,L,red,tiboufe-tiboufre           tiboufre-tiboufe,fr,FCN,0,27,27,52,,,,,,,4,12.749,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\sapaiquesapoque.wav,L,conj,ni sapaique ni sapoque       ni sapoque ni sapaique,a,VQ,0,28,28,37,,,,,,,2,17.4,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\noupetgoupet.wav,L,red,noupet-goupet          goupet-noupet,same,IS,0,29,29,0,,,,,,,5,12.301,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\padafepadafre.wav,L,red,padafe-padafre           padafre-padafe  ,fr,FCN,0,30,30,50,,,,,,,3,12.244,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\gouvactegouvac.wav,R,conj,ni gouvacte ni gouvac         ni gouvac ni gouvacte,stop,FCN,0,31,31,55,,,,,,,2,7.909,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\codellecrodelle.wav,L,red,codelle-crodelle         crodelle-codelle,nan,ICN,0,32,32,40,,,,,,,3,6.203,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\plamotteplamette.wav,R,conj,ni plamotte ni plamette       ni plamette ni plamotte,a,VQ,0,33,33,39,,,,,,,5,8.103,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\clatifeclatafe.wav,L,red,clatife-clatafe            clatafe-clatife,h,VQ,0,34,34,34,,,,,,,3,11.878,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\cadaillecadape.wav,R,conj,ni cadaille ni cadape           ni cadape ni cadaille,diff,FS,0,35,35,17,,,,,,,5,9.221,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\ladacladacte.wav,L,conj,ni ladac ni ladacte             ni ladacte ni ladac,stop,FCN,0,36,36,56,,,,,,,5,9.253,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\livottedivotte.wav,L,conj,ni livotte ni divotte               ni divotte ni livotte,diff,IS,0,37,37,8,,,,,,,6,6.544,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\chouvetrouvet.wav,R,conj,ni chouvet ni rouvet             ni rouvet ni chouvet,same,IS,0,38,38,9,,,,,,,5,8.743,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\davaisdavain.wav,L,conj,ni davais ni davain              ni davain ni davais,op,VN,0,39,39,27,,,,,,,5,7.607,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\vulpontevulpotte.wav,R,conj,ni vulponte ni vulpotte         ni vulpotte ni vulponte,cl,VN,0,40,40,28,,,,,,,2,8.128,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\padaquepadique.wav,R,red,padaque-padique      padique-padaque,h,VQ,0,41,41,32,,,,,,,3,13.81,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\coubadecoubaille.wav,L,conj,ni coubade ni coubaille       ni coubaille ni coubade,diff,FS,0,42,42,16,,,,,,,3,6.565,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\ranietteraniotte.wav,L,red,raniette-raniotte        raniotte-raniette,a,VQ,0,43,43,33,,,,,,,1,6.561,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\ganoucteganouc.wav,R,red,ganoucte-ganouc       ganouc-ganoucte,stop,FCN,0,44,44,53,,,,,,,5,10.531,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tidatidan.wav,L,red,tida-tidan                  tidan-tida,op,VN,0,45,45,21,,,,,,,4,12.342,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\coudincloudin.wav,L,conj,ni coudin ni cloudin           ni cloudin ni coudin,nan,ICN,0,46,46,48,,,,,,,4,10.279,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\chipanechipague.wav,R,red,chipane-chipague     chipague-chipane,same,FS,0,47,47,13,,,,,,,6,9.379,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\cazibecazille.wav,L,red,cazibe-cazille           cazille-cazibe,diff,FS,0,48,48,10,,,,,,,5,9.333,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\dalaifredalaife.wav,R,conj,ni dalaifre ni dalaife            ni dalaife ni dalaifre,fr,FCN,0,49,49,57,,,,,,,5,7.683,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\calitecalate.wav,L,red,calite-calate             calate-calite,h,VQ,0,50,50,30,,,,,,,5,12.909,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\loubotteloubette.wav,R,red,loubotte-loubette       loubette-loubotte,a,VQ,0,51,51,31,,,,,,,2,7.813,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\talaiquetalaime.wav,L,red,talaique-talaime        talaime-talaique        ,same,FS,0,52,52,12,,,,,,,5,9.6,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\rouzaperouzaille.wav,L,conj,ni rouzape ni rouzaille         ni rouzaille ni rouzape,diff,FS,0,53,53,18,,,,,,,5,9.375,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\capaiccapaicte.wav,L,conj,ni capaic ni capaicte          ni capaicte ni capaic,stop,FCN,0,54,54,58,,,,,,,4,8.298,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\ranaidecanaide.wav,L,conj,ni ranaide ni canaide           ni canaide ni ranaide,diff,IS,0,55,55,6,,,,,,,3,14.907,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\flitaflitan.wav,L,conj,ni flita ni flitan                    ni flitan ni flita,op,VN,0,56,56,29,,,,,,,4,8.148,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\chavintechavette.wav,R,red,chavinte-chavette      chavette-chavinte,cl,VN,0,57,57,22,,,,,,,1,9.379,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\rinoulerinoupe.wav,R,red,rinoule-rinoupe          rinoupe-rinoule,diff,FS,0,58,58,11,,,,,,,2,9.103,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\trivaipetivaipe.wav,R,conj,ni trivaipe ni tivaipe            ni tivaipe ni trivaipe,nan,ICN,0,59,59,45,,,,,,,6,9.931,,,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\churettechurinte.wav,R,red,churette-churinte           churette-churotte,nan,VQ/VN,,,,,0,0,0,1,,,,,5,11.9,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\paglipagla.wav,R,red,pagli-pagla                 pagli-pragli,h,ICN/VQ,,,,,0,1,1,23,,,,,1,9.516,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\plaretteplarotte.wav,L,red,plarette-plarotte            plarette-plarinte,nan,VQ/VN,,,,,0,2,2,4,,,,,2,7.344,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\supetteslupette.wav,R,conj,ni supette ni slupette            ni supette ni gupette,nan,IS/ICN,,,,,0,3,3,37,,,,,6,7.603,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\sabicabi.wav,L,red,sabi-cabi                     sabi-saba              ,h,IS/VQ,,,,,0,4,4,10,,,,,5,5.84,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\sudettepudette.wav,L,red,sudette-pudette        sudette-studette,nan,IS/ICN,,,,,0,5,5,32,,,,,5,7.817,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\faubetteflaubette.wav,R,red,faubette-flaubette      faubette-gaubette,nan,IS/ICN,,,,,0,6,6,33,,,,,5,7.01,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fouguiflougui.wav,R,conj,ni fougui ni flougui                ni fougui ni pougui,nan,IS/ICN,,,,,0,7,7,35,,,,,4,8.053,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\faglifragli.wav,R,red,fagli-fragli                 fagli-tagli,nan,IS/ICN,,,,,0,8,8,31,,,,,6,6.751,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\baprigeblaprige.wav,L,conj,ni baprige ni blaprige             ni baprige ni baprage,h,ICN/VQ,,,,,0,9,9,28,,,,,5,8.276,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\croudettecroudinte.wav,R,red,croudette-croudinte       croudette-croudotte,nan,VQ/VN,,,,,0,10,10,3,,,,,5,4.118,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\daglettedraglette.wav,L,conj,ni daglette ni draglette            ni daglette ni daglotte,a,ICN/VQ,,,,,0,11,11,26,,,,,5,8.499,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\lutettelutotte.wav,L,conj,ni lutette ni lutotte                   ni lutette ni lutinte,nan,VQ/VN,,,,,0,12,12,6,,,,,1,5.131,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\bimettebiminte.wav,R,conj,ni bimette ni biminte                ni bimette ni bimotte,nan,VQ/VN,,,,,0,13,13,5,,,,,5,9.797,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fabigabi.wav,L,red,fabi-gabi                   fabi-flabi,nan,IS/ICN,,,,,0,14,14,30,,,,,3,9.084,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\saubettesaubotte.wav,R,red,saubette-saubotte       saubette-daubette,a,IS/VQ,,,,,0,15,15,13,,,,,2,6.71,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\saglettepaglette.wav,L,conj,ni saglette ni paglette           ni saglette ni staglette,nan,IS/ICN,,,,,0,16,16,36,,,,,2,8.064,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\souguidougui.wav,L,conj,ni sougui ni dougui                  ni sougui ni sougua,h,IS/VQ,,,,,0,17,17,18,,,,,1,7.46,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\maflettemaflotte.wav,L,conj,ni maflette ni maflotte              ni maflette ni maflinte,nan,VQ/VN,,,,,0,18,18,8,,,,,2,5.927,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\soitettesoitinte.wav,R,conj,ni soitette ni soitinte                ni soitette ni soitotte,nan,VQ/VN,,,,,0,19,19,7,,,,,6,8.83,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fupettecupette.wav,L,conj,ni fupette ni cupette                 ni fupette ni fupotte,a,IS/VQ,,,,,0,20,20,16,,,,,2,8.791,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\padipada.wav,R,red,padi-pada                  padi-pladi,h,ICN/VQ,,,,,0,21,21,21,,,,,2,6.453,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\sadigadi.wav,L,red,sadi-gadi                  sadi-sladi,nan,IS/ICN,,,,,0,22,22,34,,,,,4,7.732,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\chaditadi.wav,L,red,chadi-tadi                   chadi-chada,h,IS/VQ,,,,,0,23,23,12,,,,,2,6.56,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fontecfontoc.wav,R,conj,ni fontec ni fontoc                    ni fontec ni pontec,a,IS/VQ,,,,,0,24,24,19,,,,,3,15.458,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\faprigefaprage.wav,R,conj,ni faprige ni faprage                 ni faprige ni gaprige,h,IS/VQ,,,,,0,25,25,15,,,,,2,10.057,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\couguicougua.wav,R,conj,ni cougui ni cougua                ni cougui ni crougui,h,ICN/VQ,,,,,0,26,26,25,,,,,1,7.41,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\tupettetupotte.wav,R,conj,ni tupette ni tupotte                ni tupette ni trupette,a,ICN/VQ,,,,,0,27,27,27,,,,,2,7.96,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\saglidagli.wav,L,red,sagli-dagli                   sagli-sagla,h,IS/VQ,,,,,0,28,28,14,,,,,2,8.095,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\paubetteplaubette.wav,L,red,paubette-plaubette      paubette-paubotte,a,ICN/VQ,,,,,0,29,29,24,,,,,2,9.051,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\gontecgontoc.wav,R,conj,ni gontec ni gontoc                ni gontec ni grontec,a,ICN/VQ,,,,,0,30,30,29,,,,,4,7.751,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\faglettefaglotte.wav,R,conj,ni faglette ni faglotte                ni faglette ni taglette,a,IS/VQ,,,,,0,31,31,17,,,,,5,6.494,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\glavetteglavotte.wav,L,red,glavette-glavotte            glavette-glavinte,nan,VQ/VN,,,,,0,32,32,0,,,,,2,4.992,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\saprigestaprige.wav,R,conj,ni saprige ni staprige            ni saprige ni caprige             ,nan,IS/ICN,,,,,0,33,33,39,,,,,6,7.226,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\dabidrabi.wav,L,red,dabi-drabi                  dabi-daba ,h,ICN/VQ,,,,,0,34,34,20,,,,,5,4.651,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\gautrettegautrotte.wav,L,red,gautrette-gautrotte        gautrette-gautrinte,nan,VQ/VN,,,,,0,35,35,2,,,,,2,4.078,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\fudettefudotte.wav,R,red,fudette-fudotte             fudette-budette,a,IS/VQ,,,,,0,36,36,11,,,,,4,8.36,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\sontecbontec.wav,L,conj,ni sontec ni bontec               ni sontec ni stontec,nan,IS/ICN,,,,,0,37,37,38,,,,,2,9.926,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\vapettevapinte.wav,R,conj,ni vapette ni vapinte                 ni vapette ni vapotte,nan,VQ/VN,,,,,0,38,38,9,,,,,5,6.567,2016_Feb_23_0915,32.26604875,binobino,1,r313
+C:\Users\viola\Desktop\FR_GHM\cudettecludette.wav,L,red,cudette-cludette         cudette-cudotte,a,ICN/VQ,,,,,0,39,39,22,,,,,5,6.537,2016_Feb_23_0915,32.26604875,binobino,1,r313

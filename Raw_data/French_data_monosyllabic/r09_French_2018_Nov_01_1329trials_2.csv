@@ -1,0 +1,31 @@
+sound,rule,binomials,predicted_order,vowel,n,rating.response_mean,rating.response_raw,rating.response_std,rating.rt_mean,rating.rt_raw,rating.rt_std,order,participant
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tide_fide_tade.wav,R/A,ni tide ni fide           ni tide ni tade,R,h,1,3,3,0,9.256999969,9.256999969,0,21,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\peffe_poffe_seffe.wav,R/A,ni peffe ni poffe           ni peffe ni seffe,L,a,1,5,5,0,10.08500004,10.08500004,0,23,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\kibe_chibe_kabe.wav,R/A,ni kibe ni chibe           ni kibe ni kabe ,R,h,1,4,4,0,11.82299995,11.82299995,0,20,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paique_pauque_faique.wav,R/A,ni paique ni pauque         ni paique ni faique,L,a,1,1,1,0,7.637000084,7.637000084,0,9,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\piche_siche_pache.wav,R/A,ni piche ni siche         ni piche ni pache,R,h,1,2,2,0,8.592000008,8.592000008,0,13,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\taigue_taugue_faigue.wav,R/A,ni taigue ni taugue         ni taigue ni faigue,L,a,1,4,4,0,9.904000282,9.904000282,0,24,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tive_sive_tave.wav,R/A,ni tive ni sive           ni tive ni tave,R,h,1,1,1,0,8.93500042,8.93500042,0,17,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\caipe_caupe_faipe.wav,R/A,ni caipe ni caupe         ni caipe ni faipe,L,a,1,1,1,0,10.58199978,10.58199978,0,2,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\pide_chide_pade.wav,R/A,ni pide ni chide           ni pide ni pade ,R,h,1,2,2,0,11.00399971,11.00399971,0,16,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paide_paude_chaide.wav,R/A,ni paide ni paude           ni paide ni chaide ,L,a,1,3,3,0,9.30700016,9.30700016,0,10,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tide_tade_tride.wav,CO/A,ni tide ni tade         ni tide ni tride,L,h,1,4,4,0,12.21500015,12.21500015,0,1,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\peffe_pleffe_poffe.wav,CO/A,ni peffe ni pleffe       ni peffe ni poffe,R,a,1,3,3,0,12.62100029,12.62100029,0,4,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\kibe_kabe_klibe.wav,CO/A,ni kibe ni kabe         ni kibe ni klibe,L,h,1,2,2,0,9.864999771,9.864999771,0,3,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paique_plaique_pauque.wav,CO/A,ni paique ni plaique       ni paique ni pauque,R,a,1,6,6,0,7.931000233,7.931000233,0,18,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\piche_pache_priche.wav,CO/A,ni piche ni pache       ni piche ni priche,L,h,1,2,2,0,10.93299961,10.93299961,0,29,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\taigue_traigue_taugue.wav,CO/A,ni taigue ni traigue       ni taigue ni taugue,R,a,1,2,2,0,8.406999588,8.406999588,0,7,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tive_tave_trive.wav,CO/A,ni tive ni tave         ni tive ni trive,L,h,1,2,2,0,10.64000034,10.64000034,0,0,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\caipe_claipe_caupe.wav,CO/A,ni caipe ni claipe       ni caipe ni caupe ,R,a,1,1,1,0,9.173000336,9.173000336,0,5,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\pide_pade_plide.wav,CO/A,ni pide ni pade         ni pide ni plide,L,h,1,3,3,0,9.052000046,9.052000046,0,26,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paide_praide_paude.wav,CO/A,ni paide ni praide         ni paide ni paude,R,a,1,5,5,0,9.449999809,9.449999809,0,27,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tide_tride_fide.wav,CO/R,ni tide ni tride         ni tide ni fide,R,None,1,6,6,0,7.238999844,7.238999844,0,28,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\peffe_seffe_pleffe.wav,CO/R,ni peffe ni seffe         ni peffe ni pleffe,L,None,1,5,5,0,9.305999756,9.305999756,0,15,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\kibe_klibe_chibe.wav,CO/R,ni kibe ni klibe         ni kibe ni chibe ,R,None,1,4,4,0,10.02400017,10.02400017,0,25,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paique_faique_plaique.wav,CO/R,ni paique ni faique         ni paique ni plaique,L,None,1,1,1,0,8.225999832,8.225999832,0,19,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\piche_priche_siche.wav,CO/R,ni piche ni priche         ni piche ni siche,R,None,1,6,6,0,7.130000114,7.130000114,0,11,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\taigue_faigue_traigue.wav,CO/R,ni taigue ni faigue       ni taigue ni traigue,L,None,1,5,5,0,8.449999809,8.449999809,0,6,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\tive_trive_sive.wav,CO/R,ni tive ni trive         ni tive ni sive,R,None,1,5,5,0,7.255000114,7.255000114,0,22,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\caipe_faipe_claipe.wav,CO/R,ni caipe ni faipe       ni caipe ni claipe,L,None,1,3,3,0,10.78800011,10.78800011,0,8,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\pide_plide_chide.wav,CO/R,ni pide ni plide         ni pide ni chide,R,None,1,5,5,0,8.437000275,8.437000275,0,12,r09
+C:\Users\viola\OneDrive\Bureaublad\Experiment\paide_chaide_praide.wav,CO/R,ni paide ni chaide         ni paide ni praide ,L,None,1,3,3,0,9.461999893,9.461999893,0,14,r09

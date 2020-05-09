@@ -1,0 +1,102 @@
+sound,rule,binomials,structure,predicted_order,binomials2,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,key_resp_4.keys,key_resp_4.rt,rating_2.response,rating_2.rt,rating_5.response,rating_5.rt,date,frameRate,expName,session,participant
+,,,,,,,,,,,,,,space,6.3051759342,,,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\vertylerty.wav,IS,verty-lerty                   lerty-verty,red,R,,0,0,0,1,,,,,,,3,7.865,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bockelbeckel.wav,VQ,bockel-beckel                beckel-bockel,red,R,,0,1,1,21,,,,,,,5,8.702,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\guskingluskin.wav,ICN,guskin-gluskin            gluskin-guskin,red,L,,0,2,2,42,,,,,,,4,9.12,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\cleesty-clisty.wav,VL,cleesty-clisty              clisty-cleesty,red,R,,0,3,3,32,,,,,,,5,8.441,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\rebamrebat.wav,FS,rebam-rebat               rebat-rebam,red,R,,0,4,4,13,,,,,,,5,5.21,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\clazzipclizzip.wav,VQ,clazzip-clizzip               clizzip-clazzip,red,R,,0,5,5,22,,,,,,,5,5.578,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\spettysetty.wav,ICN,spetty and setty                  setty and spetty,conj,R,,0,6,6,45,,,,,,,3,9.98,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\beroapberoapt.wav,FCN,beroap-beroapt          beroapt-beroap,red,L,,0,7,7,52,,,,,,,2,7.685,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\spoolkyspullky.wav,VL,spoolky and spullky              spullky and spoolky,conj,R,,0,8,8,35,,,,,,,4,6.956,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\biscowwiscow.wav,IS,biscow and wiscow              wiscow and biscow,conj,R,,0,9,9,9,,,,,,,3,12.496,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\feckinfreckin.wav,ICN,feckin-freckin              freckin-feckin,red,L,,0,10,10,44,,,,,,,2,11.181,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\deriptderip.wav,FCN,deript and derip                   derip and deript,conj,R,,0,11,11,57,,,,,,,2,13.784,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sponersoner.wav,ICN,sponer-soner              soner-sponer,red,R,,0,12,12,41,,,,,,,4,5.17,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\listerleaster.wav,VL,lister-leaster               leaster-lister,red,L,,0,13,13,30,,,,,,,5,8.411,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bickeshbickel.wav,FS,bickesh-bickell           bickell-bickesh,red,L,,0,14,14,10,,,,,,,2,18.134,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\deefelheefel.wav,IS,deefel-heefel               heefel-deefel,red,R,,0,15,15,3,,,,,,,3,10.691,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\linooctlinooc.wav,FCN,linooct and linooc                linooc and linooct,conj,R,,0,16,16,59,,,,,,,4,13.239,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\repooctrepooc.wav,FCN,repooct-repooc          repooc-repooct,red,R,,0,17,17,51,,,,,,,2,12.747,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\pleefterplifter.wav,VL,pleefter and plifter                 plifter and pleefter,conj,R,,0,18,18,36,,,,,,,6,12.041,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fedooptfedoop.wav,FCN,fedoopt-fedoop           fedoop-fedoopt,red,R,,0,19,19,53,,,,,,,4,10.053,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\resteacresteact.wav,FCN,resteac and resteact            resteact and resteac,conj,L,,0,20,20,58,,,,,,,1,11.309,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\rigsterragster.wav,VQ,rigster and ragster                ragster and rigster,conj,L,,0,21,21,28,,,,,,,6,8.995,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\steloatsteloam.wav,FS,steloat and steloam           steloam and steloat,conj,L,,0,22,22,18,,,,,,,6,11.477,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\befoolpbefulp.wav,VL,befoolp and befulp                 befulp and befoolp,conj,R,,0,23,23,39,,,,,,,3,8.52,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\lisketlasket.wav,VQ,lisket-lasket                  lasket-lisket,red,L,,0,24,24,20,,,,,,,2,12.151,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\plengsterpengster.wav,ICN,plenster and penster            penster and plenster,conj,R,,0,25,25,47,,,,,,,5,17.661,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\stockelsteckel.wav,VQ,stockel and steckel             steckel and stockel,conj,R,,0,26,26,25,,,,,,,2,16.691,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fibsterfeabster.wav,VL,fibster and feabster               feabster and fibster,conj,L,,0,27,27,38,,,,,,,3,10.185,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\hestamhestad.wav,FS,hestam and hestad            hestad and hestam,conj,R,,0,28,28,17,,,,,,,5,11.493,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\neasterheaster.wav,IS,neaster and heaster             heaster and neaster,conj,R,,0,29,29,5,,,,,,,5,17.984,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\lantiesvanties.wav,IS,lanties and vanties               vanties and lanties,conj,L,,0,30,30,6,,,,,,,3,13.793,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\horketnorket.wav,IS,horkit-norkit                norkit-horkit,red,L,,0,31,31,2,,,,,,,6,7.335,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\rizeptrizep.wav,FCN,rizept and rizep                   rizep and rizept,conj,R,,0,32,32,55,,,,,,,1,12.614,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\loskylesky.wav,VQ,losky and lesky                   lesky and losky,conj,R,,0,33,33,29,,,,,,,6,17.537,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\beetowbreetow.wav,ICN,beetow and breetow             breetow and beetow,conj,L,,0,34,34,48,,,,,,,2,11.294,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\deckeldockel.wav,VQ,deckel-dockel                dockel-deckel,red,L,,0,35,35,23,,,,,,,5,9.263,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bepleckbeplock.wav,VQ,bepleck and beplock            beplock and bepleck,conj,L,,0,36,36,27,,,,,,,2,6.196,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\seroapseroapt.wav,FCN,seroap-seroapt          seroapt-seroap,red,L,,0,37,37,50,,,,,,,6,7.381,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\booteecboteect.wav,FCN,boteec and boteect              boteect and boteec,conj,L,,0,38,38,56,,,,,,,2,14.109,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\ristyreasty.wav,VL,risty-reasty                 reasty-risty,red,L,,0,39,39,34,,,,,,,2,9.215,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\redoolredoob.wav,FS,redool and redoob       redoob and redool,conj,R,,0,40,40,15,,,,,,,3,7.392,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sigglestiggle.wav,ICN,siggle and stiggle                stiggle and siggle,conj,L,,0,41,41,46,,,,,,,3,6.653,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\loogleboogle.wav,IS,loogle-boogle              boogle-loogle,red,L,,0,42,42,0,,,,,,,3,9.847,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\restellresteg.wav,FS,restell-resteg              resteg-restell,red,R,,0,43,43,11,,,,,,,6,7.702,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\lishooclishoon.wav,FS,lishooc-lishoon           lishoon-lishooc,red,L,,0,44,44,12,,,,,,,5,7.716,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\revecrevect.wav,FCN,revec-revect               revect-revec,red,L,,0,45,45,54,,,,,,,1,10.774,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\teskerresker.wav,IS,            tesker and resker               resker and tesker                 ,conj,R,,0,46,46,7,,,,,,,3,15.759,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\plibsterpibster.wav,ICN,plibster and pibster              pibster and plibster,conj,R,,0,47,47,49,,,,,,,2,11.044,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\kizzykrizzy.wav,ICN,kizzy-krizzy               krizzy-kizzy,red,L,,0,48,48,40,,,,,,,5,9.671,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bullgorboolgor.wav,VL,bullgor-boolgor            boolgor-bullgor,red,L,,0,49,49,33,,,,,,,1,5.877,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\lomickgomick.wav,IS,lomick-gomick            gomick-lomick,red,L,,0,50,50,4,,,,,,,3,13.191,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\tefoiltefoig.wav,FS,tefoil and tefoig                  tefoig and tefoil,conj,R,,0,51,51,19,,,,,,,5,6.28,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sladvinslidvin.wav,VQ,sladvin and slidvin                slidvin and sladvin,conj,R,,0,52,52,26,,,,,,,5,5.258,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\poolsterpullster.wav,VL,poolster-pullster          pullster-poolster,red,R,,0,53,53,31,,,,,,,5,10.087,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\revidrevad.wav,VQ,revid-revad                     revad-revid,red,L,,0,54,54,24,,,,,,,2,9.856,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\yoglitstoglits.wav,IS,yoglits and toglits                toglits and yoglits,conj,L,,0,55,55,8,,,,,,,5,7.131,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\croosetcooset.wav,ICN,crooset-cooset           cooset-crooset,red,R,,0,56,56,43,,,,,,,2,10.98,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\miscottmiscon.wav,FS,miscott-miscon          miscon-miscott,red,L,,0,57,57,14,,,,,,,5,6.069,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fullsyfoolsy.wav,VL,fullsy and foolsy                    foolsy and fullsy,conj,L,,0,58,58,37,,,,,,,3,7.723,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\pichoogpichoon.wav,FS,pichoog and pichoon          pichoon and pichoog,conj,L,,0,59,59,16,,,,,,,3,6.754,,,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\figlowfliglow.wav,IS/ICN,,red,R,           figlow-fliglow                      figlow-biglow                               ,,,,,0,0,0,34,,,,,5,9.838,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\ditlendatlen.wav,ICN/Q,,conj,L,         ditlen and datlen                     ditlen and dritlen           ,,,,,0,1,1,26,,,,,2,10.631,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\filgerfeelger.wav,Q/L,,conj,R,filger and feelger                    filger and fulger,,,,,0,2,2,8,,,,,2,7.955,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\deblicdreblic.wav,ICN/Q,,conj,R,deblic and dreblic                    deblic and doblic,,,,,0,3,3,25,,,,,5,9.849,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\tiglowtaglow.wav,ICN/Q,,red,L,tiglow-taglow                 tiglow-triglow,,,,,0,4,4,20,,,,,1,5.423,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\kerishklerish.wav,ICN/Q,,red,R,kerish-klerish                kerish-korish,,,,,0,5,5,21,,,,,1,5.458,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fiplyfaply.wav,IS/Q,,red,R,fiply-faply                       fiply-biply,,,,,0,6,6,10,,,,,6,6.624,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\ferishflerish.wav,IS/ICN,,red,R,ferish-flerish                 ferish-terish,,,,,0,7,7,30,,,,,6,4.543,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\siglowsaglow.wav,IS/Q,,red,R,siglow-saglow                siglow-kiglow,,,,,0,8,8,14,,,,,6,4.672,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\teckletackle.wav,ICN/Q,,red,L,teckil-tockil                   teckil-treckil,,,,,0,9,9,23,,,,,5,7.97,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sipothbipoth.wav,IS/Q,,conj,L,          sipoth and bipoth                 sipoth and sapoth                    ,,,,,0,10,10,18,,,,,6,5.962,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\feblickeblic.wav,IS/Q,,conj,L,feblic and keblic                      feblic and foblic,,,,,0,11,11,15,,,,,1,5.867,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\kiplykriply.wav,ICN/Q,,red,R,kiply-kriply                    kiply-kaply,,,,,0,12,12,24,,,,,3,9.188,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fipothflipoth.wav,IS/ICN,,conj,R,fipoth and flipoth                      fipoth and dipoth,,,,,0,13,13,36,,,,,6,5.302,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\feblicteblic.wav,IS/ICN,,conj,L,feblic and teblic                       feblic and fleblic ,,,,,0,14,14,39,,,,,2,6.197,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bilnerbulner.wav,Q/L,,red,L,bilner-bullner               bilner-bealner,,,,,0,15,15,1,,,,,2,11.849,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\nicketnucket.wav,Q/L,,red,L,nicket-nooket              nicket-neeket,,,,,0,16,16,3,,,,,6,6.486,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\serishderish.wav,IS/Q,,red,L,serish-derish                  serish-sorish,,,,,0,17,17,13,,,,,6,5.787,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\filkyfealky.wav,Q/L,,red,R,filky-fealky                  filky-fulky,,,,,0,18,18,0,,,,,6,6.582,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fettipfottip.wav,IS/Q,,conj,R,fettip and fottip                        fettip and bettip,,,,,0,19,19,17,,,,,3,7.331,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\vickervooker.wav,Q/L,,conj,L,vicker and voocker                 vicker and veecker,,,,,0,20,20,5,,,,,4,8.752,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\feskytesky.wav,IS/Q,,conj,L,fesky and tesky                      fesky and fosky,,,,,0,21,21,19,,,,,4,10.923,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\liknepleeknep.wav,Q/L,,red,R,liknep-leeknep             liknep-looknep,,,,,0,22,22,2,,,,,5,11.479,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\kettipkrettip.wav,ICN/Q,,conj,R,kettip and krettip                     kettip and kottip,,,,,0,23,23,27,,,,,4,8.877,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\tipothtapoth.wav,ICN/Q,,conj,L,tipoth and tapoth                     tipoth and tripoth,,,,,0,24,24,28,,,,,1,6.663,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fitlenfritlen.wav,IS/ICN,,conj,R,fitlen and fritlen                        fitlen and kitlen   ,,,,,0,25,25,38,,,,,5,10.393,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\diplerdoopler.wav,Q/L,,conj,L,dipler and doopler                  dipler and deepler,,,,,0,26,26,9,,,,,4,9.764,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\fiprettipret.wav,IS/ICN,,red,L,          fipret-tipret                   fipret-flipret                   ,,,,,0,27,27,31,,,,,3,11.133,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sitlenpitlen.wav,IS/Q,,conj,L,sitlen and pitlen                      sitlen and satlen,,,,,0,28,28,16,,,,,5,7.72,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\bipretblipret.wav,ICN/Q,,red,R,bipret-blipret                 bipret-bapret,,,,,0,29,29,22,,,,,6,5.317,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\geskyglesky.wav,ICN/Q,,conj,R,gesky and glesky                    gesky and gosky,,,,,0,30,30,29,,,,,5,4.726,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\secklesteckle.wav,IS/ICN,,red,R,seckil-steckil               seckil-beckil,,,,,0,31,31,32,,,,,3,4.779,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\settipgettip.wav,IS/ICN,,conj,L,settip and gettip                      settip and slettip,,,,,0,32,32,37,,,,,3,5.6,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\sipretsapret.wav,IS/Q,,red,R,sipret-sapret                  sipret-dipret,,,,,0,33,33,12,,,,,3,4.334,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\berickbereack.wav,Q/L,,red,R,berick-bereek              berick-berook,,,,,0,34,34,4,,,,,3,7.023,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\feckildeckil.wav,IS/Q,,red,L,feckil-deckil                   feckil-fockil,,,,,0,35,35,11,,,,,2,7.406,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\seskykesky.wav,IS/ICN,,conj,L,sesky and kesky                    sesky and slesky ,,,,,0,36,36,35,,,,,1,5.051,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\shicketshucket.wav,Q/L,,conj,L,shicket and shucket              shicket and sheecket,,,,,0,37,37,7,,,,,1,5.681,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\cabickcabeeck.wav,Q/L,,conj,R,cabick  and cabeek               cabick and cabook,,,,,0,38,38,6,,,,,5,8.244,2016_Feb_11_1535,31.9695925697,binomials,1,r114
+C:\Users\viola\Desktop\ENG_GHM\siply-tiply.wav,IS/ICN,,red,L,siply-tiply                     siply-sliply,,,,,0,39,39,33,,,,,5,4.568,2016_Feb_11_1535,31.9695925697,binomials,1,r114
